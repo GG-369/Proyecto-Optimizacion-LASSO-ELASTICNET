@@ -163,10 +163,10 @@ Ejecutar los notebooks desde la carpeta del proyecto. No mover los notebooks fue
 
 ## Integrantes
 
-- Gracia Gamboa
-- Gabriela Loli
-- Mauricio Aguirre
-- Raul Solis
+- Guillermo Gamboa
+- Sebastian Loli
+- Fernando Aguirre
+- Nicolas Solis
 
 ## Repositorio
 
